@@ -1,0 +1,18 @@
+[
+    {
+      "dish": "Spaghetti Carbonara",
+      "cuisine_name": "Italian",
+      "recipe": "1. Cook spaghetti according to package instructions. In a separate bowl, whisk together eggs, grated Parmesan cheese, and black pepper.\n2. In a skillet, cook diced pancetta until crispy. Add minced garlic and cook until fragrant.\n3. Drain spaghetti, reserving some pasta water. Add spaghetti to the skillet with pancetta and garlic.\n4. Remove skillet from heat and quickly stir in the egg and cheese mixture. If too thick, add some pasta water to loosen.\n5. Serve immediately with additional grated Parmesan cheese and black pepper."
+    },
+    {
+      "dish": "Chicken Tikka Masala",
+      "cuisine_name": "Indian",
+      "recipe": "1. Marinate chicken pieces in yogurt, ginger, garlic, and spices for at least 1 hour.\n2. Grill or bake marinated chicken until cooked through.\n3. In a separate pan, heat oil and sauté onions until golden brown. Add minced garlic, ginger, and spices.\n4. Stir in tomato sauce and cream. Simmer until the sauce thickens.\n5. Add cooked chicken to the sauce and simmer for a few more minutes.\n6. Garnish with chopped cilantro and serve with rice or naan."
+    },
+    {
+      "dish": "Sushi Rolls",
+      "cuisine_name": "Japanese",
+      "recipe": "1. Cook sushi rice according to package instructions. Season with rice vinegar, sugar, and salt.\n2. Lay a sheet of nori on a bamboo sushi mat. Spread a thin layer of sushi rice evenly over the nori.\n3. Arrange your desired fillings (e.g., cucumber, avocado, crab sticks) in the center of the rice.\n4. Roll the sushi tightly using the bamboo mat, applying gentle pressure as you roll.\n5. Slice the sushi roll into bite-sized pieces using a sharp knife.\n6. Serve with soy sauce, pickled ginger, and wasabi."
+    }
+  ]
+  

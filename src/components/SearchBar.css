@@ -1,0 +1,59 @@
+.input-wrapper {
+    background-color: white;
+    /*width: 90%;
+    padding: 0 15px;
+    
+    */
+    box-shadow: 0px 0px 8px #ddd;
+    position: relative; 
+    
+}
+
+input {
+    border: none;
+    height: 100%;
+    width: calc(100% - 30px); 
+    padding-left: 30px; 
+}
+
+input:focus {
+    outline: none;
+}
+
+#search-icon {
+    color: royalblue;
+    position: absolute;
+    left: 10px;
+    top: 50%;
+    transform: translateY(-50%);
+}
+
+.dropdown {
+    position: absolute;
+    
+    left: 0;
+    z-index: 1000; 
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    max-height: 200px; 
+    overflow-y: auto;
+    width: 100%; 
+}
+
+.dropdown-row {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.dropdown-row:hover {
+    background-color: #f0f0f0;
+}
+
+.dropdown-row:first-child {
+    border-top: none;
+}
+
+.dropdown-row:last-child {
+    border-bottom: none;
+}
